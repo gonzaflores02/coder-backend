@@ -1,0 +1,24 @@
+[
+    {
+        "id" : 1,
+        "title" : "Coca Cola",
+        "description" : "Bebida de la linea Coca",
+        "code" : "asd1234asfaasd",
+        "price" : 2100,
+        "status" : true,
+        "stock" : 100,
+        "category" : "Bebida",
+        "thumbnails" : []
+    },
+    {
+        "id" : 2,
+        "title" : "Pepsi",
+        "description" : "Bebida de la linea Pepsi",
+        "code" : "asdag1231245",
+        "price" : 2000,
+        "status" : true,
+        "stock" : 90,
+        "category" : "Bebida",
+        "thumbnails" : []
+    }
+]
